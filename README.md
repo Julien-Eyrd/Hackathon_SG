@@ -56,6 +56,3 @@ Once textual signals are engineered into continuous rolling variables, they are 
 
 The repository includes a web-based, real-time analytics interface (`dashboard.py`). The dashboard allows portfolio managers and quantitative traders to visualize rolling sentiment indexes, track article volume spikes, and monitor active correlation signals directly within an interactive workspace.
 
-├── sentiment_analysis_mix.py   # Hybrid model combining lexicon and transformer approaches
-├── sentiment_analysis_textblob.py # Fast lexicon-based rule sentiment scoring script
-└── stock_keywords.py           # Core asset watchlist configuration dictionary mapping
